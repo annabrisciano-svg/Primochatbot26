@@ -1,1 +1,8 @@
-
+#DOBBIAMO SCRIVERE I NOMI DELLE LIBRERIE CHE SONO SERVITE PER REALIZZARE IL NOSTRO CHATBOT
+streamlit
+pdfplumber
+langchain-text-splitters
+langchain-openai
+langchain-community
+faiss-cpu
+langchain-core
